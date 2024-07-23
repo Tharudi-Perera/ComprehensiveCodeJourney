@@ -1,0 +1,6 @@
+Installation and Setup
+
+1. Install Python: Download Python from python.org. Follow the installation instructions for your operating system.
+2. Install an IDE: Popular choices include:
+    PyCharm: A powerful IDE specifically for Python. Download PyCharm
+    VSCode: A lightweight editor with Python support. Download VSCode
