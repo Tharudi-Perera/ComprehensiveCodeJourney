@@ -19,8 +19,14 @@ To get started with this repository:
 1. #### Clone the repository:
              git clone https://github.com/yourusername/ComprehensiveCodeJourney.git
              cd ComprehensiveCodeJourney
-1. #### nstall any necessary dependencies: (if applicable)
+1. #### Install any necessary dependencies: (if applicable)
              pip install -r requirements.txt
 1. #### Open the project in your preferred IDE:
              PyCharm
              VSCode
+
+## Contents
+
+1. #### Python
+2. #### Java
+3. #### Data structures and Algorithms
