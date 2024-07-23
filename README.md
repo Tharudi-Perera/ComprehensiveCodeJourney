@@ -1,5 +1,5 @@
-# ComprehensiveCodeJourney
-#Introduction
+## ComprehensiveCodeJourney
+## Introduction
 ComprehensiveCodeJourney aims to provide detailed explanations, practical code examples, exercises, and structured guides across various programming topics. Whether you're a beginner starting your coding journey or an experienced developer looking to brush up on the basics, this repository offers valuable insights and practical knowledge to support your growth.
 
 Inside, you'll find:
