@@ -29,5 +29,5 @@ To get started with this repository:
 
 1. #### Python
 2. #### Java
-3. #### [Data structures](data-structures/README.md)
+3. #### [Data structures](Data%20Structures/README.md)
 4. #### Algorithms 
