@@ -4,6 +4,18 @@ This file demonstrates useful low-level number theory and bit manipulation utili
 """
 from __future__ import annotations
 from typing import Iterable, Tuple, List
+
+'''
+The line from typing import Iterable, Tuple, List is used to bring in type-hinting tools from Python’s typing module, 
+which helps make the code clearer and easier to check. The Iterable type indicates that a parameter can be any object 
+you can loop over, such as a list, set, or generator. In your code, it is used for the indices parameter in 
+bitset_from_indices, meaning the function can accept any iterable of integers. The Tuple type is used to represent a 
+fixed-length sequence with specific types; for example, the egcd function is annotated to return a tuple of three 
+integers (g, x, y). The List type specifies a standard Python list containing elements of a particular type; in your 
+code, the sieve function returns a list of integers representing prime numbers. These annotations don’t affect how the 
+program runs but improve readability, make the expected inputs and outputs explicit, and allow tools like IDEs and 
+static type checkers (e.g., mypy) to catch type-related errors before runtime.
+'''
 import random
 
 
